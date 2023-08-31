@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joanneimbisi
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a software engineer
+- 🌱 I’m currently building a fashion app
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: evizengwa@yahoo.com
 
